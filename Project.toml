@@ -1,0 +1,4 @@
+name = "Recorder"
+uuid = "c5d3cf70-5d83-4542-a9ae-48dfacabf02b"
+authors = ["Brian Sinquin <paradisepx@gmail.com>"]
+version = "0.1.0"
